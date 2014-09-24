@@ -1,6 +1,6 @@
 ArtsFundEndowment
 =================
 
-<img align="right" height="200" src="https://github.com/tay1orjones/arts-fund-endowment/img/logo.svg">
+<img align="right" height="200" src="https://raw.githubusercontent.com/tay1orjones/arts-fund-endowment/master/img/logo.jpg">
 
 A simple static site using foundation 5 and Microsoft Expression 4.
